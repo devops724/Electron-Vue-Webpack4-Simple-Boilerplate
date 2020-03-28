@@ -1,10 +1,10 @@
 # Electron-Vue-Webpack4-Simple-Boilerplate
 most Simple vue Webpack Electron config
 
-#setup
+# setup
 npm install
 
-#run
+# run
 open two terminal 
 in first
 npm run dev
